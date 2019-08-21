@@ -1,0 +1,15 @@
+--2019-08-21 18:09:49--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.phoca.cz%2Fimages%2Fprojects%2Fphoca-download-r.svg
+Resolving www.google.com (www.google.com)... 74.125.124.99, 74.125.124.103, 74.125.124.104, ...
+Connecting to www.google.com (www.google.com)|74.125.124.99|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2019-08-21 18:09:49--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fwww.phoca.cz%2Fimages%2Fprojects%2Fphoca-download-r.svg’
+
+                     imgres?imgurl=https:%     [<=>                                                                                   ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fwww.phoca.cz%2Fi     [ <=>                                                                                  ]  12.09K  --.-KB/s    in 0s      
+
+2019-08-21 18:09:50 (40.5 MB/s) - ‘imgres?imgurl=https:%2F%2Fwww.phoca.cz%2Fimages%2Fprojects%2Fphoca-download-r.svg’ saved [12384]
+

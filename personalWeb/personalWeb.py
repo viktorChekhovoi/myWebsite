@@ -1,0 +1,1 @@
+from viktors_website import viktors_app
